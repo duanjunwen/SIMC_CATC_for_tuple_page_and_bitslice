@@ -1,0 +1,24 @@
+         ass2/defs.h
+         ass2/reln.h
+         ass2/reln.c
+         ass2/tuple.h
+         ass2/tuple.c
+         ass2/util.c
+         ass2/util.h
+         ass2/page.c
+         ass2/page.h
+         ass2/bits.c
+         ass2/bits.h
+         ass2/tsig.c
+         ass2/tsig.h
+         ass2/hash.c
+         ass2/hash.h
+         ass2/psig.c
+         ass2/psig.h
+         ass2/bsig.c
+         ass2/bsig.h
+         ass2/query.c
+         ass2/query.h
+         # ass2/select.c
+         ass2/x1.c
+         # ass2/x2.c
